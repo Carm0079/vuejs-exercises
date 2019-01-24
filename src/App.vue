@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import PlayGround from "./components/PlayGround/PlayGround";
+import PlayGround from "./components/PlayGround/PlayGround.vue";
 
 export default {
   name: "app",

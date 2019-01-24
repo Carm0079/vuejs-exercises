@@ -10,4 +10,13 @@ button {
 
 button:active {
   background-color: rgb(159, 234, 159);
+  color: rgb(111, 111, 111);
+}
+
+.red-background {
+  background-color: red;
+}
+
+.green-background {
+  background-color: green;
 }
