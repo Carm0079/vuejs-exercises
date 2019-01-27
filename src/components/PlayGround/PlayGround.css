@@ -1,22 +1,21 @@
-button {
-  background-color: rgb(175, 255, 175);
-  color: rgb(123, 123, 123);
-  font-size: 20px;
-  font-weight: 200;
-  border-radius: 10px;
-  padding: 10px 20px;
-  ;
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-button:active {
-  background-color: rgb(159, 234, 159);
-  color: rgb(111, 111, 111);
+.el-input {
+  margin: 0 0 15px 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.red-background {
-  background-color: red;
+div {
+  text-align: left;
 }
 
-.green-background {
-  background-color: green;
+p {
+  padding: 0 0 0 15px;
+  margin: 0;
+}
+
+h1 {
+  padding: 0 0 0 15px;
 }
